@@ -7,7 +7,7 @@ function App() {
         <a href="/">React Shopping Cart</a>
       </header>
       <main>
-        mojoj
+        Product List
       </main>
       <footer>
         All rights reserved.
