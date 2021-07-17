@@ -70,6 +70,8 @@ main {
   flex: 1 20rem;
 }
 
+/* Products */
+
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -128,6 +130,20 @@ main {
 
 .button.primary {
   background-color: #f0c040;
+}
+
+/* Filter */
+
+.filter {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: 0.1rem solid #c0c0c0;
+}
+
+.filter div {
+  flex: 1;
 }
 
 footer {
