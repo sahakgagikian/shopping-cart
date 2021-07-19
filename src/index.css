@@ -201,6 +201,28 @@ main {
   flex: 1;
 }
 
+/* Checkout form */
+.form {
+  width: 100%;
+}
+
+.form-container {
+  width: 100%;
+  padding: 0;
+  list-style: none;
+}
+
+.form-container li {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+input {
+  padding: 1rem;
+  border: 0.1rem solid #c0c0c0;
+}
+
 footer {
   grid-area: footer;
   background-color: #203040;
